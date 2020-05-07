@@ -1,0 +1,13 @@
+C:\Users\Nate\Documents\CSharp_april2020\Lab13Blockbuster\Lab13Blockbuster\bin\Debug\netcoreapp3.1\Lab13Blockbuster.exe
+C:\Users\Nate\Documents\CSharp_april2020\Lab13Blockbuster\Lab13Blockbuster\bin\Debug\netcoreapp3.1\Lab13Blockbuster.deps.json
+C:\Users\Nate\Documents\CSharp_april2020\Lab13Blockbuster\Lab13Blockbuster\bin\Debug\netcoreapp3.1\Lab13Blockbuster.runtimeconfig.json
+C:\Users\Nate\Documents\CSharp_april2020\Lab13Blockbuster\Lab13Blockbuster\bin\Debug\netcoreapp3.1\Lab13Blockbuster.runtimeconfig.dev.json
+C:\Users\Nate\Documents\CSharp_april2020\Lab13Blockbuster\Lab13Blockbuster\bin\Debug\netcoreapp3.1\Lab13Blockbuster.dll
+C:\Users\Nate\Documents\CSharp_april2020\Lab13Blockbuster\Lab13Blockbuster\bin\Debug\netcoreapp3.1\Lab13Blockbuster.pdb
+C:\Users\Nate\Documents\CSharp_april2020\Lab13Blockbuster\Lab13Blockbuster\obj\Debug\netcoreapp3.1\Lab13Blockbuster.csprojAssemblyReference.cache
+C:\Users\Nate\Documents\CSharp_april2020\Lab13Blockbuster\Lab13Blockbuster\obj\Debug\netcoreapp3.1\Lab13Blockbuster.csproj.CoreCompileInputs.cache
+C:\Users\Nate\Documents\CSharp_april2020\Lab13Blockbuster\Lab13Blockbuster\obj\Debug\netcoreapp3.1\Lab13Blockbuster.AssemblyInfoInputs.cache
+C:\Users\Nate\Documents\CSharp_april2020\Lab13Blockbuster\Lab13Blockbuster\obj\Debug\netcoreapp3.1\Lab13Blockbuster.AssemblyInfo.cs
+C:\Users\Nate\Documents\CSharp_april2020\Lab13Blockbuster\Lab13Blockbuster\obj\Debug\netcoreapp3.1\Lab13Blockbuster.dll
+C:\Users\Nate\Documents\CSharp_april2020\Lab13Blockbuster\Lab13Blockbuster\obj\Debug\netcoreapp3.1\Lab13Blockbuster.pdb
+C:\Users\Nate\Documents\CSharp_april2020\Lab13Blockbuster\Lab13Blockbuster\obj\Debug\netcoreapp3.1\Lab13Blockbuster.genruntimeconfig.cache
